@@ -193,3 +193,6 @@ Security measures implemented
 - Documentation:
 - README: Setup, API examples, security features, short learning report.
 - Tests: Scripts verifying functional and safety behavior.
+<img width="541" height="285" alt="Screenshot 2025-12-12 041017" src="https://github.com/user-attachments/assets/40a4a40e-55a7-4a94-9aee-17af03469eba" />
+<img width="542" height="289" alt="Screenshot 2025-12-12 041151" src="https://github.com/user-attachments/assets/f48870ab-4702-4d0c-bdd4-59aa6a226794" />
+

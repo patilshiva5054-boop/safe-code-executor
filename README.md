@@ -2,6 +2,8 @@
 Project purpose
 
 A learning project to safely execute untrusted Python code inside Docker containers, with resource and network isolation. Setup
+<img width="1920" height="1080" alt="Screenshot 2025-12-17 171256" src="https://github.com/user-attachments/assets/76d9766d-628f-47d4-a440-e8e537d60dc5" />
+
 
 Build image: docker build -t safe-python:latest ./api/docker
 Install API deps: pip install flask flask-cors
